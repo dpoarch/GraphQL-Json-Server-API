@@ -1,0 +1,19 @@
+Please follow the instruction:
+=========================================
+- Open your cli and type cd GraphQL-json-server-api
+- run the command npm install
+- run the command npm start
+
+localhost:3000/graphql
+
+Sample Query to run:
+
+{
+  people {
+    name,
+    starships {
+      name,
+      length
+    }
+  }
+}
