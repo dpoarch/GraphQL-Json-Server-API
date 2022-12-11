@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "dataloader": "^1.1.0",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-graphql": "^0.4.5",
     "graphiql": "^0.4.5",
     "graphql": "^0.4.14",
